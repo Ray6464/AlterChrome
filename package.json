@@ -1,0 +1,30 @@
+{
+  "name": "alterchrome",
+  "version": "0.0.2",
+  "description": "A javascript package that makes color logging easier. Based on Chalk!",
+  "main": "alterchrome.js",
+  "scripts": {
+    "test": "node tests/mainTest.js",
+    "start": "node alterchrome.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ray6464/AlterChrome.git"
+  },
+  "keywords": [
+    "chalk",
+    "console",
+    "color",
+    "style"
+  ],
+  "author": "Ray Voice, Anna Voice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ray6464/AlterChrome/issues"
+  },
+  "homepage": "https://github.com/Ray6464/AlterChrome#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "hardlog": "^2.0.0"
+  }
+}
